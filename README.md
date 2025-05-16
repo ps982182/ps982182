@@ -1,5 +1,3 @@
-![Creative Banner](https://images.unsplash.com/photo-1506744038136-46273834b3fb?auto=format&fit=crop&w=800&q=80)
-
 # Hi there, I'm Prajakta! 👋
 
 I am a passionate BTech student specializing in Computer Science (AIML).
