@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi there, I'm Prajakta! 👋
 
-<!--
-**ps982182/ps982182** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate BTech student specializing in Computer Science (AIML).
 
-Here are some ideas to get you started:
+🚀 I love working on:
+- Data Science & Machine Learning
+- Web Development
+- AI & Automation
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ I enjoy creating projects that solve real-world problems.
+
+📫 Let's connect!
+- LinkedIn: https://www.linkedin.com/in/prajakta-singhal-962616297/
+- Email: singhal.riya2018@gmail.com
+
+Thanks for visiting my profile! 😊
