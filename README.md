@@ -6,6 +6,7 @@ I am a passionate BTech student specializing in Computer Science (AIML).
 - Data Science & Machine Learning
 - Web Development
 - AI & Automation
+- Software Development 
 
 ✨ I enjoy creating projects that solve real-world problems.
 
