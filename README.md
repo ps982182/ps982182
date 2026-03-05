@@ -1,66 +1,42 @@
-<h1 align="center">Hi there, I'm Prajakta Singhal 👋</h1>
-<h3 align="center">🚀 BTech CSE (AI & ML) Student | Aspiring Software & Data Engineer</h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Prajakta%20Singhal&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+
+<h3 align="center">BTech CSE (AI & ML) | Aspiring Software & Data Engineer</h3>
 
 ---
 
-🎓 **Final-year BTech student** specializing in **Computer Science Engineering (AI & ML)** at **ABES Engineering College**.
+### 👩‍💻 About Me
 
-💡 I enjoy building technology that solves **real-world problems** and continuously learning new tools in **AI, Data Science, and Software Development**.
+Final-year **Computer Science (AI & ML)** student at **ABES Engineering College** with experience in **Machine Learning, Data Analysis, and Web Development**.
 
----
-
-## 🚀 About Me
-
-- 🔭 Currently exploring **Machine Learning, Data Science, and Software Engineering**
-- 🧠 Interested in **AI, Automation, and Data-driven applications**
-- 💻 Love building **projects that create real-world impact**
-- 🌱 Currently improving my **DSA, System Design, and ML skills**
+I enjoy building **AI-powered and data-driven solutions** that solve real-world problems.
 
 ---
 
-## 🛠️ Tech Stack
+### 🚀 Interests
 
-**Languages**
-
-`Python` `JavaScript` `SQL`
-
-**Technologies & Tools**
-
-`Machine Learning` `Power BI` `Git` `MySQL` `Data Analysis`
-
-**Domains**
-
-`Data Science` `AI & ML` `Web Development` `Software Development`
+• Data Science & Machine Learning  
+• AI & Automation  
+• Web Development  
+• Software Engineering  
 
 ---
 
-## 📌 Projects
+### 🛠️ Tech Stack
 
-🔹 **Sentiment Analysis using NLP**  
-Built a machine learning model to classify Twitter sentiments using Python and NLP techniques.
-
-🔹 **CNN Image Classification**  
-Developed a CNN model using Keras for Dogs vs Cats classification achieving high accuracy.
-
-🔹 **Healthcare Insights Dashboard**  
-Created a Power BI dashboard analyzing healthcare data to identify trends and insights.
+**Languages:** Python | SQL | JavaScript  
+**Tools:** Power BI | Git | MySQL  
+**Domains:** AI/ML | Data Analysis | Software Development  
 
 ---
 
-## 📊 GitHub Stats
+### 🌐 Connect With Me
 
-![Prajakta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps982182&show_icons=true&theme=tokyonight)
-
----
-
-## 🌐 Connect With Me
-
-💼 **LinkedIn**  
+🔗 LinkedIn  
 https://www.linkedin.com/in/prajakta-singhal-962616297/
 
-📧 **Email**  
-singhal.riya2018@gmail.com
+📧 Email  
+singhal.riya2018@gmail.com  
 
 ---
 
-✨ *Thanks for visiting my profile! I'm always open to learning, collaboration, and exciting opportunities in tech.*
+✨ *Always excited to learn, build, and collaborate in the tech community.*
