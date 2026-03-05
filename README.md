@@ -1,5 +1,4 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Prajakta%20Singhal&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-
 <h2 align="center">AI & ML Enthusiast | Aspiring Software & Data Engineer</h2>
 
 <p align="center">
