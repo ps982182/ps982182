@@ -1,47 +1,46 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Prajakta%20Singhal&fontSize=40&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Prajakta%20Singhal&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 
-<h3 align="center">AI & ML Enthusiast | Aspiring Software & Data Engineer</h3>
+<h2 align="center">AI & ML Enthusiast | Aspiring Software & Data Engineer</h2>
 
----
-
-<img align="right" alt="coding" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-### 👩‍💻 About Me
-
-🎓 Final-year **BTech CSE (AI & ML)** student at **ABES Engineering College**
-
-💡 Interested in building **AI-driven and data-powered solutions**
-
-🚀 Passionate about **Machine Learning, Software Development, and Data Analytics**
-
-🌱 Currently strengthening **DSA, System Design, and ML skills**
+<p align="center">
+Final-year <b>BTech CSE (AI & ML)</b> student at <b>ABES Engineering College</b><br>
+Passionate about building <b>AI-powered and data-driven solutions</b>.
+</p>
 
 ---
 
-### ⚙️ Tech Stack
+## 👩‍💻 About Me
 
-<p>
+- 🎓 Final-year **Computer Science (AI & ML)** student  
+- 💡 Interested in **Machine Learning, Data Science, and Software Development**  
+- 🚀 Love building **real-world tech solutions**  
+- 🌱 Currently improving **DSA, System Design, and ML skills**
+
+---
+
+## ⚙️ Tech Stack
+
+<p align="center">
 <img src="https://skillicons.dev/icons?i=python,js,mysql,git,github,html,css" />
 </p>
 
-**Tools & Technologies**
-
+<p align="center">
 Machine Learning • Data Analysis • Power BI • AI Automation
+</p>
 
 ---
 
-### 📌 Areas of Interest
+## 🚀 Interests
 
-• Machine Learning & AI  
-• Data Science & Analytics  
-• Web Development  
-• Software Engineering  
+<p align="center">
+Machine Learning • AI • Data Science • Web Development • Software Engineering
+</p>
 
 ---
 
-### 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p>
+<p align="center">
 <a href="https://www.linkedin.com/in/prajakta-singhal-962616297/">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
@@ -53,4 +52,6 @@ Machine Learning • Data Analysis • Power BI • AI Automation
 
 ---
 
-✨ *Always excited to learn, build impactful projects, and collaborate with the tech community.*
+<p align="center">
+✨ Always excited to learn, collaborate, and build impactful technology.
+</p>
