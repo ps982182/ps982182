@@ -1,56 +1,51 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f4037,100:99f2c8&height=220&section=header&text=Prajakta%20Singhal&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
-<h2 align="center">AI & ML Enthusiast | Aspiring Software & Data Engineer</h2>
+# Hi, I'm Prajakta Singhal 👋
 
-<p align="center">
-Final-year <b>BTech CSE (AI & ML)</b> student at <b>ABES Engineering College</b><br>
-Passionate about building <b>AI-powered and data-driven solutions</b>.
-</p>
+🎓 BTech CSE (AI & ML) student at **ABES Engineering College, Ghaziabad**
 
----
-
-## 👩‍💻 About Me
-
-- 🎓 Final-year **Computer Science (AI & ML)** student  
-- 💡 Interested in **Machine Learning, Data Science, and Software Development**  
-- 🚀 Love building **real-world tech solutions**  
-- 🌱 Currently improving **DSA, System Design, and ML skills**
+I am interested in **Artificial Intelligence, Data Science, and Software Development**.
+Currently learning and building projects related to **Machine Learning, Data Analysis, and Web Development**.
 
 ---
 
-## ⚙️ Tech Stack
+## Skills
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,js,mysql,git,github,html,css" />
-</p>
+* Python
+* JavaScript
+* HTML & CSS
+* MySQL
+* Git & GitHub
 
-<p align="center">
-Machine Learning • Data Analysis • Power BI • AI Automation
-</p>
+Also exploring:
 
----
-
-## 🚀 Interests
-
-<p align="center">
-Machine Learning • AI • Data Science • Web Development • Software Engineering
-</p>
+Machine Learning • Data Analysis • Power BI
 
 ---
 
-## 🌐 Connect With Me
+## Projects
 
-<p align="center">
-<a href="https://www.linkedin.com/in/prajakta-singhal-962616297/">
-<img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
+Some of the projects I have worked on include:
 
-<a href="mailto:singhal.riya2018@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
-</a>
-</p>
+* Data analysis projects using **Python and Power BI**
+* Machine learning projects
+* Web development projects
+
+More projects will be added as I continue learning.
 
 ---
 
-<p align="center">
-✨ Always excited to learn, collaborate, and build impactful technology.
-</p>
+## Interests
+
+* Artificial Intelligence
+* Machine Learning
+* Data Science
+* Software Development
+
+---
+
+## Connect with me
+
+LinkedIn:
+https://www.linkedin.com/in/prajakta-singhal-962616297/
+
+Email:
+[singhal.riya2018@gmail.com](mailto:singhal.riya2018@gmail.com)
