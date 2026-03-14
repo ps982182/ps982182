@@ -3,7 +3,7 @@
 🎓 BTech CSE (AI & ML) Student  
 📍 ABES Engineering College, Ghaziabad  
 
-I build **AI applications, machine learning systems, and data analytics dashboards** that transform data into meaningful insights.
+I enjoy building **AI-powered applications, machine learning systems, and data analytics dashboards** that transform raw data into meaningful insights.
 
 ---
 
@@ -11,14 +11,15 @@ I build **AI applications, machine learning systems, and data analytics dashboar
 
 ## 📊 AI-Powered Business Insights Dashboard
 
-An interactive analytics dashboard that analyzes sales datasets and generates business insights automatically.
+An interactive analytics dashboard that analyzes sales datasets and automatically generates business insights.
 
-### Features
+### Key Features
+
 • Upload custom CSV datasets  
 • Interactive analytics dashboard  
 • Automated business insights generation  
 • Key business metrics (Total Sales, Top Product, Top Region)  
-• Data visualization using Plotly  
+• Data visualizations using Plotly  
 • Downloadable analytics reports  
 
 🔗 **Live Demo**  
@@ -80,22 +81,14 @@ VS Code
 
 ---
 
-# 📊 GitHub Stats
-
-![Prajakta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps982182&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ps982182&layout=compact&theme=tokyonight)
-
----
-
 # 📫 Connect With Me
 
 📧 Email  
-singhal.riya2018@gmail.com  
+prajaktasinghal2004@gmail.com
 
 🔗 LinkedIn  
 https://www.linkedin.com/in/prajakta-singhal/
 
 ---
 
-⭐ If you like my projects, feel free to star the repositories!
+⭐ If you find my projects useful, feel free to star the repositories!
