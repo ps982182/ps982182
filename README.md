@@ -1,51 +1,38 @@
 # Hi, I'm Prajakta Singhal 👋
 
-🎓 BTech CSE (AI & ML) student at **ABES Engineering College, Ghaziabad**
-
-I am interested in **Artificial Intelligence, Data Science, and Software Development**.
-Currently learning and building projects related to **Machine Learning, Data Analysis, and Web Development**.
-
----
-
-## Skills
-
-* Python
-* JavaScript
-* HTML & CSS
-* MySQL
-* Git & GitHub
-
-Also exploring:
-
-Machine Learning • Data Analysis • Power BI
+🎓 BTech CSE (AI & ML) Student  
+📊 Data Science | Machine Learning | Analytics  
+📍 ABES Engineering College, Ghaziabad
 
 ---
 
-## Projects
+## 🚀 Featured Project
 
-Some of the projects I have worked on include:
+### 📊 AI-Powered Business Insights Dashboard
 
-* Data analysis projects using **Python and Power BI**
-* Machine learning projects
-* Web development projects
+An interactive analytics dashboard that analyzes sales datasets and generates business insights automatically.
 
-More projects will be added as I continue learning.
+🔗 Live Demo  
+https://ai-business-insights-dashboard-by-prajakta.streamlit.app/
 
----
-
-## Interests
-
-* Artificial Intelligence
-* Machine Learning
-* Data Science
-* Software Development
+🔗 GitHub Repository  
+https://github.com/ps982182/AI-Business-Insights-Dashboard
 
 ---
 
-## Connect with me
+## 🛠 Skills
 
-LinkedIn:
-https://www.linkedin.com/in/prajakta-singhal-962616297/
+Python  
+Machine Learning  
+Data Analysis  
+Data Visualization  
+SQL  
+Streamlit  
+Git & GitHub
 
-Email:
-[singhal.riya2018@gmail.com](mailto:singhal.riya2018@gmail.com)
+---
+
+## 📫 Connect With Me
+
+LinkedIn  
+Email: singhal.riya2018@gmail.com
