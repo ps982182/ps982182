@@ -1,6 +1,6 @@
 # Hi, I'm Prajakta Singhal 👋
 
-🎓 BTech CSE (AI & ML) Student  
+🎓 BTech - CSE (AI & ML)
 📍 ABES Engineering College, Ghaziabad  
 
 I enjoy building **AI-powered applications, machine learning systems, and data analytics dashboards** that transform raw data into meaningful insights.
