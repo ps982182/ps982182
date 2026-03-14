@@ -1,10 +1,9 @@
 # Hi, I'm Prajakta Singhal 👋
 
 🎓 BTech CSE (AI & ML) Student  
-📊 Data Science | Machine Learning | Data Analytics  
 📍 ABES Engineering College, Ghaziabad  
 
-I enjoy building **AI-powered applications, data analytics dashboards, and machine learning solutions** that transform raw data into actionable insights.
+I build **AI applications, machine learning systems, and data analytics dashboards** that transform data into meaningful insights.
 
 ---
 
@@ -12,18 +11,17 @@ I enjoy building **AI-powered applications, data analytics dashboards, and machi
 
 ## 📊 AI-Powered Business Insights Dashboard
 
-An interactive analytics dashboard that analyzes sales datasets and automatically generates business insights.
+An interactive analytics dashboard that analyzes sales datasets and generates business insights automatically.
 
-### Key Features
-
+### Features
 • Upload custom CSV datasets  
 • Interactive analytics dashboard  
 • Automated business insights generation  
 • Key business metrics (Total Sales, Top Product, Top Region)  
-• Data visualizations using Plotly  
+• Data visualization using Plotly  
 • Downloadable analytics reports  
 
-🔗 **Live App**  
+🔗 **Live Demo**  
 https://ai-business-insights-dashboard-by-prajakta.streamlit.app/
 
 🔗 **Repository**  
@@ -33,8 +31,8 @@ https://github.com/ps982182/AI-Business-Insights-Dashboard
 
 # 🧠 Projects
 
-### 📊 AI-Business-Insights-Dashboard
-AI-powered analytics dashboard for generating insights from business datasets.
+### 📊 AI Business Insights Dashboard
+AI-powered dashboard for analyzing business datasets and generating insights.
 
 ### 🤖 Real-Time Object Detection
 Real-time object detection using YOLOv8 and webcam input.
@@ -46,44 +44,47 @@ Twitter sentiment analysis using TF-IDF and machine learning models.
 AI-powered interview preparation tool with speech recognition and AI responses.
 
 ### 🌐 Web Development Projects
-Collection of frontend projects including games, calculators, and web interfaces.
+Collection of frontend mini-projects including games and utilities.
 
 ### ☕ Java Projects
-Java mini-projects including banking systems and reservation systems.
+Java-based applications including banking systems and reservation systems.
 
 ---
 
 # 🛠 Tech Stack
 
-**Languages**
-
+### Languages
 Python  
 Java  
 SQL  
 JavaScript  
 
-**Data & AI**
-
+### AI / Data Science
+Machine Learning  
 Pandas  
 Scikit-Learn  
-Machine Learning  
 NLP  
 
-**Visualization**
-
+### Visualization
 Plotly  
 Matplotlib  
 
-**Frameworks**
-
+### Frameworks
 Streamlit  
 Flask  
 
-**Tools**
-
+### Tools
 Git  
 GitHub  
 VS Code  
+
+---
+
+# 📊 GitHub Stats
+
+![Prajakta's GitHub stats](https://github-readme-stats.vercel.app/api?username=ps982182&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ps982182&layout=compact&theme=tokyonight)
 
 ---
 
@@ -97,4 +98,4 @@ https://www.linkedin.com/in/prajakta-singhal/
 
 ---
 
-⭐ *If you like my projects, feel free to star the repositories!*
+⭐ If you like my projects, feel free to star the repositories!
