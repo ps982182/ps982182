@@ -34,5 +34,5 @@ Git & GitHub
 
 ## 📫 Connect With Me
 
-LinkedIn  
+LinkedIn: https://www.linkedin.com/in/prajakta-singhal/ 
 Email: singhal.riya2018@gmail.com
