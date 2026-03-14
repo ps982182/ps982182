@@ -93,7 +93,7 @@ VS Code
 singhal.riya2018@gmail.com  
 
 🔗 LinkedIn  
-(Add your LinkedIn link here)
+https://www.linkedin.com/in/prajakta-singhal/
 
 ---
 
