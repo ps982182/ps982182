@@ -1,9 +1,11 @@
 # Hi, I'm Prajakta Singhal 👋
 
-🎓 BTech - CSE (AI & ML)
-📍 ABES Engineering College, Ghaziabad  
+🎓 **BTech – Computer Science (AI & ML)**  
+📍 **ABES Engineering College, Ghaziabad**
 
 I enjoy building **AI-powered applications, machine learning systems, and data analytics dashboards** that transform raw data into meaningful insights.
+
+I am interested in **Data Science, Machine Learning, AI applications, and software development.**
 
 ---
 
@@ -33,51 +35,44 @@ https://github.com/ps982182/AI-Business-Insights-Dashboard
 # 🧠 Projects
 
 ### 📊 AI Business Insights Dashboard
-AI-powered dashboard for analyzing business datasets and generating insights.
+AI-powered dashboard for analyzing business datasets and generating insights through interactive visualizations.
+
+### 🎬 Movie Recommendation System
+Machine learning based movie recommendation system that suggests movies using **content-based filtering techniques**.
 
 ### 🤖 Real-Time Object Detection
-Real-time object detection using YOLOv8 and webcam input.
+Real-time object detection using **YOLOv8 and webcam input**.
 
 ### 💬 Sentiment Analysis (NLP)
-Twitter sentiment analysis using TF-IDF and machine learning models.
+Twitter sentiment analysis using **TF-IDF and machine learning models**.
 
 ### 🧠 AI Interview Assistant
-AI-powered interview preparation tool with speech recognition and AI responses.
+AI-powered interview preparation tool with **speech recognition and AI-generated responses**.
 
 ### 🌐 Web Development Projects
-Collection of frontend mini-projects including games and utilities.
+Collection of frontend web applications, games, and utilities.
 
-### ☕ Java Projects
-Java-based applications including banking systems and reservation systems.
+### ☕ Java Applications
+Java-based applications including **banking systems and reservation systems**.
 
 ---
 
 # 🛠 Tech Stack
 
-### Languages
-Python  
-Java  
-SQL  
-JavaScript  
+### Programming Languages
+Python • Java • SQL • JavaScript • PHP
 
 ### AI / Data Science
-Machine Learning  
-Pandas  
-Scikit-Learn  
-NLP  
+Machine Learning • Pandas • Scikit-Learn • NLP
 
-### Visualization
-Plotly  
-Matplotlib  
+### Data Visualization
+Plotly • Matplotlib
 
 ### Frameworks
-Streamlit  
-Flask  
+Streamlit • Flask
 
 ### Tools
-Git  
-GitHub  
-VS Code  
+Git • GitHub • VS Code
 
 ---
 
@@ -91,4 +86,4 @@ https://www.linkedin.com/in/prajakta-singhal/
 
 ---
 
-⭐ If you find my projects useful, feel free to star the repositories!
+⭐ If you find my projects useful, feel free to **star the repositories!**
